@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca53e22b-76c5-4145-a6ad-74ac8105248f" name="Changes" comment="" />
+    <list default="true" id="ca53e22b-76c5-4145-a6ad-74ac8105248f" name="Changes" comment="Optimizado el codigo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ghuali/CodelabsState",
+    "accountId": "d877a349-08e2-401c-8806-3aa09c7284c6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -36,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.desktop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -52,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733849518121</updated>
     </task>
+    <task id="LOCAL-00001" summary="Optimizado el codigo">
+      <option name="closed" value="true" />
+      <created>1734033447002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734033447002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Optimizado el codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimizado el codigo" />
   </component>
 </project>
